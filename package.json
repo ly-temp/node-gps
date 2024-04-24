@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+        "express": "^4.18.3",
+        "mysql2": "^3.9.6",
+        "mqtt": "^5.5.3",
+        "node-fetch": "^2.7.0"
+    }
+}
